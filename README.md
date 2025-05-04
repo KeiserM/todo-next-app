@@ -59,7 +59,7 @@ npm install
 npm run dev
 
 # A aplicação estará disponível em http://localhost:3000.
-
+```bash
 ---
 
 ## 🎨 Layout
