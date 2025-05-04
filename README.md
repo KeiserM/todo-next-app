@@ -60,32 +60,20 @@ npm run dev
 
 # A aplicação estará disponível em http://localhost:3000.
 
-# 🎨 Layout
+---
+
+## 🎨 Layout
 Este projeto segue um layout simples e limpo, ideal para iniciantes aprenderem Next.js com foco em CRUD.
 
 Você pode customizar facilmente a interface editando os ficheiros .module.css.
 
-📂 Estrutura de Pastas
-todo-next-app/
-├── pages/
-│   └── index.js         # Página principal
-├── components/
-│   ├── TaskForm.js      # Componente de adicionar/editar tarefa
-│   └── TaskItem.js      # Componente de cada item de tarefa
-├── styles/
-│   └── Home.module.css  # Estilização
-├── public/
-│   └── favicon.ico
-├── package.json
-└── README.md
-
 ---
 
-# 📝 Licença
+## 📝 Licença
 Este projeto está sob a licença MIT.
 Feito por Keiser Augusto Manuel
 
 ---
 
-# 📌 Notas
+## 📌 Notas
 Este projeto foi criado com fins educativos e pode ser utilizado como base para aplicações mais completas que integrem back-end com banco de dados.
