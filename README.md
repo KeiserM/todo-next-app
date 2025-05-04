@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src=".github/preview.png" alt="Todo App Preview" width="100%">
+  <img src=".github/image.png" alt="Todo App Preview" width="100%">
 </p>
 
 ---
