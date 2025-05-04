@@ -9,7 +9,7 @@
   <a href="#-funcionalidades">Funcionalidades</a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#-como-executar">Como Executar</a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#-licença">Licença</a>
+  <a href="#-licença">Licença</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 </p>
 
 <p align="center">
@@ -59,7 +59,8 @@ npm install
 npm run dev
 
 # A aplicação estará disponível em http://localhost:3000.
-```bash
+```
+
 ---
 
 ## 🎨 Layout
